@@ -1,3 +1,7 @@
 .idea
 
 .Coursera---Using-Python-to-Access-Web-Data\week4\bs4\bs4
+Coursera---Using-Python-to-Access-Web-Data/week4/bs4/bs4/__init__.py
+Coursera---Using-Python-to-Access-Web-Data/week4/bs4/bs4/builder/__init__.py
+Coursera---Using-Python-to-Access-Web-Data/week4/bs4/bs4/builder/_htmlparser.py
+*.py
